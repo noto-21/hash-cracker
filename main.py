@@ -17,7 +17,7 @@ class Style:
 done = False
 
 
-def cracked(don):  # Cadenza
+def cracked(don):  # Cadence
     don = True
     print(f"{Fore.LIGHTWHITE_EX}\r> {Style.BOLD}{Fore.LIGHTMAGENTA_EX}--Decryption complete!--{Style.END}")
     return don
